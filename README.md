@@ -120,7 +120,7 @@ Update the following variables in the script before execution:
 ## How to Use the Script
 
 ### Step 1: Prepare the Script
-1. Save the script as `manage_castai_images.sh`.
+1. Save the script as `images.sh`.
 2. Ensure the script is executable:
 
    ```bash
@@ -133,7 +133,7 @@ Update the following variables in the script before execution:
 Run the script with:
 
 ```bash
-bash manage_castai_images.sh
+bash images.sh
 ```
 
 ---
